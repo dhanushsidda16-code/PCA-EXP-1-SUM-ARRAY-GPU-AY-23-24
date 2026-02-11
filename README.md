@@ -261,9 +261,12 @@ int main(int argc, char **argv)
 ## OUTPUT:
 <img width="1658" height="171" alt="Screenshot 2026-02-11 082304" src="https://github.com/user-attachments/assets/165e5271-c45a-4abc-8dde-b97cc8b576cb" />
 
+
 <img width="1600" height="169" alt="Screenshot 2026-02-11 082405" src="https://github.com/user-attachments/assets/09cbcc4e-516b-4c0b-86a5-b25575968dac" /> 
 
-<img width="1573" height="167" alt="Screenshot 2026-02-11 082432" src="https://github.com/user-attachments/assets/d0fafd0b-8416-478a-b727-f6136f656fa6" />
+
+<img width="1573" height="167" alt="Screenshot 2026-02-11 082432" src="https://github.com/user-attachments/assets/d0fafd0b-8416-478a-b727-f6136f656fa6" /> 
+
 
 <img width="1564" height="170" alt="Screenshot 2026-02-11 082458" src="https://github.com/user-attachments/assets/69adb42a-6b84-4f7d-8feb-056e1ec2ae0e" />
 
